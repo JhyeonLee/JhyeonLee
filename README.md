@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JhyeonLee
+- 👋 Hi, I’m JongHyeon Lee(@JhyeonLee)
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...
