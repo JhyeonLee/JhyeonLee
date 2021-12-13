@@ -1,6 +1,6 @@
 - 👋 Hi, I’m JongHyeon Lee(@JhyeonLee)
 - 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
